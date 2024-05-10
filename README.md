@@ -26,7 +26,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloper.android.com%2Fdevelop%2Fui%2Fcompose&psig=AOvVaw0w7A_hICt6dsUdpwUjauzv&ust=1715402807804000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPj5vMmjgoYDFQAAAAAdAAAAABAJ](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white)" height="40" alt="jetpack compose logo" />
+ <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=Jetpack-Compose&logoColor=white" height="40" alt="jetpack compose logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
   <img width="12" />
